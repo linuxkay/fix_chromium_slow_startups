@@ -1,2 +1,28 @@
-# fix_chromium_slow_startups
-Fix chromium slow start problem. The problem related to gnome-keyring.
+# Fix chromium slow startups
+
+## quick fix for chromium
+
+## Description
+
+# Demo in Animation
+
+## Overview
+
+## Requirements
+
+## Usage
+
+simply run
+
+`sh fix_chromium_slow_startups.sh`
+
+## Install
+
+## Contribution
+
+## Licence
+[MIT]
+
+## Author
+
+[linuxkay](https://github.com/linuxkay)
