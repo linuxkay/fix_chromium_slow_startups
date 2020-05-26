@@ -18,6 +18,16 @@
 
 Update
 
+2020/05/26 11:17
+
+ Complete fix for the problem newly created with running fix_chromium_slow_startups.sh.
+
+ The problem was moving gnome-keyring-daemon.
+
+ so bring it back for now by
+
+`sudo mv /usr/bin/gnome-keyring-daemon-old /usr/bin/gnome-keyring-daemon`
+
 2020/05/26 10:31
 
  To fix ssh keyphrase problem newly created with running fix_chromium_slow_startups.sh, do following in terminal.
