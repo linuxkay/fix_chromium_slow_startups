@@ -14,7 +14,7 @@
 
  This may not apply KDE,LXDE,Xfce. I only tested in gnome on Ubuntu20.04 64bit.
 
- * Caution
+ ~ Caution~ 
 
  This fix produce another problem. It is about ssh key. You have to type key_phrase(if you set it up) everytime when you try to ssh any server. It is very annoying. Looking for fix now.
 
