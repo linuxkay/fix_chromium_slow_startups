@@ -1,6 +1,8 @@
 # Fix chromium slow startups
 
-## quick fix for chromium
+## Category
+
+ quick fix for chromium
 
 ## Description
 
