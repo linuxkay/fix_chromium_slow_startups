@@ -16,7 +16,24 @@
 
  ~ Caution~ 
 
+Update
+
+2020/05/26
+
+ To fix ssh keyphrase problem newly created with running fix_chromium_slow_startups.sh, do following in terminal.
+
+`eval $(ssh-agent)`
+
+`ssh-add`
+
+Reference 
+
+https://stackoverflow.com/questions/10032461/git-keeps-asking-me-for-my-ssh-key-passphrase
+
+2020/05/26
+
  This fix produce another problem. It is about ssh key. You have to type key_phrase(if you set it up) everytime when you try to ssh any server. It is very annoying. Looking for fix now.
+
 
 # Demo in Animation
 
